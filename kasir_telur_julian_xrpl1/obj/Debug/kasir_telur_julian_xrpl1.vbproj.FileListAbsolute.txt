@@ -1,0 +1,82 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.home.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.jenis.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.pdb
+C:\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe.config
+C:\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.exe
+C:\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.xml
+C:\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.pdb
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe.config
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.exe
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.xml
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.pdb
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.pdb
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.xml
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.home.resources
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.jenis.resources
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.Resources.resources
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.GenerateResource.Cache
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.admin.resources
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.telur.resources
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Guna.UI2.dll
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.transaksi.resources
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.AssemblyReference.cache
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.CoreCompileInputs.cache
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.CopyComplete
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\JulianGalangSaputra\Documents\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.ujicoba.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe.config
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.exe
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.xml
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.pdb
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.pdb
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.xml
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Guna.UI2.dll
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.admin.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.home.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.jenis.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.Resources.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.telur.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.transaksi.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.ujicoba.resources
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.GenerateResource.Cache
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.AssemblyReference.cache
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.CoreCompileInputs.cache
+T:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.CopyComplete
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe.config
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.pdb
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.xml
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Guna.UI2.dll
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.AssemblyReference.cache
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.admin.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.home.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.jenis.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.Resources.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.telur.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.transaksi.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.ujicoba.resources
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.GenerateResource.cache
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.CoreCompileInputs.cache
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.vbproj.CopyComplete
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.exe
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.xml
+A:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.pdb
+E:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\bin\Debug\kasir_telur_julian_xrpl1.exe.config
+E:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.exe
+E:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.xml
+E:\Visual Studio 2012\Projects\kasir_telur_julian_xrpl1\kasir_telur_julian_xrpl1\obj\Debug\kasir_telur_julian_xrpl1.pdb
